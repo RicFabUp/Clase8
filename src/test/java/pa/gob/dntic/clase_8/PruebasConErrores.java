@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 class PruebasConErrores {
 
     CalculadoraDePrioridad calc = new CalculadoraDePrioridad();
-    
+
     // ERROR 1
     @Test
     void error_uno() {
